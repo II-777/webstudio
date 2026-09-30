@@ -1,9 +1,9 @@
 # WebStudio markup 7
 
-WebStudio with the order modal plus a mobile menu. Homework from the GoIT markup module.
+A business landing page for WebStudio, with an order form in a modal and a mobile menu.
 
 **Stack:** HTML, CSS, JavaScript
 
 ## Live
 
-https://ii-777.github.io/goit-markup-hw-07/
+https://ii-777.github.io/webstudio/
