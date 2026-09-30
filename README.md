@@ -8,4 +8,4 @@ A business landing page for WebStudio, with an order form in a modal and a mobil
 
 ## Live
 
-https://ii-777.github.io/webstudio/
+https://ii-777.github.io/frontend-webstudio/
